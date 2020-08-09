@@ -1,2 +1,4 @@
 Experiment one 
 learning github
+	all commands 
+	github
